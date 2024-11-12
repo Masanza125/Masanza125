@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Masanza125
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning coding in C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects that will help me grow as a programmer
+- 📫 How to reach me 79223158
 - 😄 Pronouns: her
 - ⚡ Fun fact: am in eswatini
 
